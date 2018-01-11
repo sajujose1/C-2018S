@@ -1,0 +1,1 @@
+This is where all files are stored for EE 553 (Engineering Programming: C++). Spring 2018. Stevens Institute of Technology
